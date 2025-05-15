@@ -109,7 +109,7 @@ Please include a short README in your submission covering:
 * How it would be deployed to Kubernetes (mention Helm, Kustomize, etc.)
 
 
-## Panel Debrief
+## Debrief
 
 Be prepared to walk the panel through:
 
@@ -128,3 +128,6 @@ Be prepared to walk the panel through:
 * Comfort working with Kubernetes APIs
 * Good architectural thinking
 * Strong communication in the debrief
+
+
+## Once complete pelase send your repo link to hello@adroitcc.io
